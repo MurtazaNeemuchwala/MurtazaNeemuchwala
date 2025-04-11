@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm a passionate product manager and technology en
 
 ---
 
-## 📈 GitHub Stats
-
-![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurtazaNeemuchwala&show_icons=true&theme=radical)
-
----
-
 ## 🌟 Projects
 
 Here are some highlights of the work I’ve done:
